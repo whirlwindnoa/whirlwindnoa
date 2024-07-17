@@ -5,5 +5,5 @@
 i'm (probably) a programmer<br>
 i code stuff because i like to
 
-website: [whirlwindnoa.com](https://whirlwindnoa.moe)<br>
+website: [whirlwindnoa.moe](https://whirlwindnoa.moe)<br>
 discord: whirlwindnoa
